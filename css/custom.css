@@ -1,0 +1,9 @@
+.main-text {
+  font-size: 80px;
+  font-weight: 300; /* Use 600 for semi-bold as font-weight doesn't support 'semi-bold' directly */
+}
+@media (max-width: 860px) {
+  .main-text {
+    font-size: 40px; /* Adjust the size as needed for smaller screens */
+  }
+}
