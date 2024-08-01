@@ -6053,7 +6053,7 @@ body {
     max-width: 75% !important;
   }
 }
-/* ipad landscape and > */
+
 @media (max-width: 1023px) {
   .grid:not(.later) > [class*='col-']:not([class*='col-phablet-']):not([class*='col-phone-']) {
     max-width: 100%;
